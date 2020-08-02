@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Karl Hornlund
+title: Karl Hörnlund
 
 # Username (this should match the folder name)
 authors:
