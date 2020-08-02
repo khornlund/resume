@@ -29,7 +29,7 @@ education:
   courses:
   - course: MSc. Computer Science
     institution: Georgia Institute of Technology
-    year: Ongoing
+    year: 2021
   - course: B. Computer Systems Engineering
     institution: University of Adelaide
     year: 2016
@@ -70,4 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Karl Hornlund is a Machine Learning Engineer at the Australian Institute for Machine Learning at The University of Adelaide. He develops applied machine learning solutions for customers in industry and government, often as part of a multidisciplinary team of researchers and subject matter experts.
+Karl Hornlund is a Machine Learning Engineer at the Australian Institute for Machine Learning.
+
+He develops applied machine learning solutions for customers in industry and government, often as part of a multidisciplinary team of researchers and subject matter experts.
