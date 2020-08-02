@@ -17,6 +17,7 @@ jobs:
       uses: benmatselby/hugo-deploy-gh-pages@master
       env:
         HUGO_VERSION: 0.74.3
+        HUGO_EXTENDED: true
         TARGET_REPO: khornlund/khornlund.github.io
         TOKEN: ${{ secrets.HUGO }}
-#         CNAME: www.khornlund.com
+        CNAME: khornlund.github.io
