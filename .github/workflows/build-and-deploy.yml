@@ -20,4 +20,4 @@ jobs:
         HUGO_EXTENDED: true
         TARGET_REPO: khornlund/khornlund.github.io
         TOKEN: ${{ secrets.HUGO }}
-        CNAME: khornlund.github.io
+#         CNAME: khornlund.github.io
