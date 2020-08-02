@@ -21,21 +21,15 @@ subtitle = ""
   description = ""
 
 [[feature]]
-  icon = "hotjar"
-  icon_pack = "fab"
-  name = "PyTorch"
-  description = ""
-
-[[feature]]
-  icon = "docker"
-  icon_pack = "fab"
-  name = "Containerisation & Deployment"
-  description = ""
-
-[[feature]]
-  icon = "chart-line"
+  icon = "cogs"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Machine Learning"
+  description = ""
+
+[[feature]]
+  icon = "dharmachakra"
+  icon_pack = "fas"
+  name = "Kubernetes"
   description = ""
 
 
