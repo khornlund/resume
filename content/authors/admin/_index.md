@@ -15,10 +15,10 @@ role: Machine Learning Engineer
 # Organizations/Affiliations
 organizations:
 - name: Australian Institute for Machine Learning
-  url: ""
+  url: "https://www.adelaide.edu.au/aiml/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I develop applied machine learning solutions for customers in industry and government, often as part of a multidisciplinary team of researchers and subject matter experts.
+bio: Machine Learning Engineer @ AIML
 
 interests:
 - Deep Learning
@@ -44,16 +44,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: "mailto:karlhornlund@gmail.com"
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/khornlund/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/khornlund
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,11 +62,7 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+user_groups: []
 ---
 
-Karl Hornlund is a Machine Learning Engineer at the Australian Institute for Machine Learning.
-
-He develops applied machine learning solutions for customers in industry and government, often as part of a multidisciplinary team of researchers and subject matter experts.
+I'm a Machine Learning Engineer at the Australian Institute for Machine Learning, where I develop applied machine learning solutions for customers in industry and government.
