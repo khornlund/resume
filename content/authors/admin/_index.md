@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Karl Hornlund
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Machine Learning Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Australian Institute for Machine Learning
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I develop applied machine learning solutions for customers in industry and government, often as part of a multidisciplinary team of researchers and subject matter experts.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning
+- Computer Vision
+- Geospatial Data Analytics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc. Computer Science
+    institution: Georgia Institute of Technology
+    year: Ongoing
+  - course: B. Computer Systems Engineering
+    institution: University of Adelaide
+    year: 2016
+  - course: B. Management
+    institution: University of South Australia
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Karl Hornlund is a Machine Learning Engineer at the Australian Institute for Machine Learning at The University of Adelaide. He develops applied machine learning solutions for customers in industry and government, often as part of a multidisciplinary team of researchers and subject matter experts.
